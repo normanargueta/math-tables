@@ -1,10 +1,13 @@
 import React from 'react';
-import { View, Text } from 'react-native';
+import { View } from 'react-native';
+
+import Styles from '../styles/Styles';
+import TableGrid from '../components/TableGrid';
 
 const TableSelection = () => {
   return (
-    <View>
-      <Text>Tables screen</Text>
+    <View style={ Styles.screenView }>
+      <TableGrid />
     </View>
   );
 };
