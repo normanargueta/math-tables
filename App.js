@@ -19,7 +19,7 @@ export default function App() {
           options={{
             title: 'Selecciona una tabla',
             headerStyle: {
-              backgroundColor: '#c3c3c3',
+              backgroundColor: '#22a6b3',
             },
           }}
         />
@@ -29,7 +29,7 @@ export default function App() {
           options={{
             title: 'Entrenamiento',
             headerStyle: {
-              backgroundColor: '#c3c3c3',
+              backgroundColor: '#22a6b3',
             },
           }}
         />
